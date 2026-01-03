@@ -1,2 +1,3 @@
 # PRODIGY_DS_03
 This one is prodigy internship task three
+In this project, we built a Decision Tree classification model using the dataset. We first imported the required libraries and explored the dataset to understand its structure. After cleaning the data and converting categorical values into numeric form, we split the dataset into training and testing sets. We then trained a Decision Tree model and evaluated its performance using accuracy, precision, recall, F1-score, and a confusion matrix. Next, we visualized the decision tree and analyzed feature importance to understand how predictions were made. Finally, we summarized the key insights and the practical implications of the model results.
